@@ -1,0 +1,59 @@
+{
+  "appearance": {
+    "mode": "dark",
+    "theme": "green",
+    "window": {
+      "title": "🌎 Rock Paper Scissors Around the World 🌍",
+      "size": "600x800",
+      "background_color": "#111111"
+    }
+  },
+  "assets": {
+    "sounds": {
+      "menu": "sounds/menu.wav",
+      "win": "sounds/win.wav",
+      "lose": "sounds/lose.wav",
+      "tie": "sounds/tie.wav"
+    },
+    "images": {
+      "rock": "images/rock.png",
+      "paper": "images/paper.png",
+      "scissors": "images/scissors.png"
+    }
+  },
+  "volumes": {
+    "menu": 0.5,
+    "low": 0.05
+  },
+  "variations": {
+    "🦅 Vanilla 🦅": ["Rock", "Paper", "Scissors"],
+    "🫡 American Historical 🫡": ["Ro", "Beau", "Sham"],
+    "🌺 Hawaii 🌺": ["Guu", "Paa", "Choki"],
+    "🍣 Japan 🍣": ["Kawazu", "Hebi", "Namekuji"],
+    "🥠 China 🥠": ["Shi", "Ka", "Bu"],
+    "🍛 Korea 🍛": ["Bai", "Bo", "Kai"],
+    "🔗 Finland 🔗": ["Kivi", "Paperi", "Sakset"],
+    "🥐 France 🥐": ["Pierra", "Papier", "Ciseaux"],
+    "🌯 Spain 🌯": ["Piedra", "Papel", "Tijera"]
+  },
+  "colors": {
+    "choice_buttons": ["#FF008D", "#001EFF", "#8900FF"],
+    "particles": {
+      "neutral": [255, 255, 0],
+      "win": [50, 205, 50],
+      "lose": [255, 99, 71]
+    },
+    "status": {
+      "win": "#32CD32",
+      "lose": "#FF6347",
+      "tie": "#FFD700"
+    }
+  },
+  "positions": {
+    "play_again_button": {
+      "relx": 0.85,
+      "rely": 0.6,
+      "anchor": "center"
+    }
+  }
+}
