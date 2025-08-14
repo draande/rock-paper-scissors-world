@@ -2,7 +2,7 @@
 
 This is my take on Rock Paper Scissors!
 It’s a CustomTkinter + Pygame GUI game with sound effects, particle effects, and multiple cultural variations of RPS.  
-Basically… it’s way cooler than normal Rock Paper Scissors.
+Basically… it’s a way cooler version of Rock Paper Scissors.
 
 ---
 
