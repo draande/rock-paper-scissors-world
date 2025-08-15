@@ -28,7 +28,7 @@ Make sure you have Python 3.10+ installed.
    # macOS/Linux: source .venv/bin/activate
 4. Install dependencies
    ```bash
-     pip install -r requirements.txt
+   pip install -r requirements.txt
 6. Run it
    ```bash
-     python main.py
+   python main.py
